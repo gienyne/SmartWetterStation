@@ -8,12 +8,12 @@ Diese Wetterstation (eine Erweiterung des Projekts *Mini Wetter Station*) basier
 
 Die Station misst kontinuierlich:
 
-- 🌡️ **Temperatur** und 💧 **Luftfeuchtigkeit** (DHT11)  
-- 💡 **Lichtintensität** (LDR)  
-- 🕒 **Datum und Uhrzeit** (RTC DS3231)  
-- 💾 **Speichert Werte auf SD-Karte**  
-- 📡 **Sendet Daten über MQTT** an **Node-RED Dashboard**  
-- 🌀 **Steuert automatisch oder manuell** einen Lüfter (DC-Motor)
+- **Temperatur** und **Luftfeuchtigkeit** (DHT11)  
+- **Lichtintensität** (LDR)  
+- **Datum und Uhrzeit** (RTC DS3231)  
+- **Speichert Werte auf SD-Karte**  
+- **Sendet Daten über MQTT** an **Node-RED Dashboard**  
+- **Steuert automatisch oder manuell** einen Lüfter (DC-Motor)
 
 ---
 
@@ -47,7 +47,7 @@ Die Station misst kontinuierlich:
 | Transistoremitter → GND | Gemeinsame Masse |
 | **Diode (1N4007)** | Antiparallel zum Motor (Kathode → +5 V, Anode → Motorminus) |
 
-👉 **Wichtig:** Gemeinsame **Masse (GND)** zwischen ESP32, SD-Karte, Sensoren und externer 5-V-Versorgung herstellen!
+ **Wichtig:** Gemeinsame **Masse (GND)** zwischen ESP32, SD-Karte, Sensoren und externer 5-V-Versorgung herstellen!
 
 ---
 
