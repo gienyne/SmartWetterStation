@@ -164,7 +164,7 @@ Alle Messwerte werden in der Datei `/log.txt` auf der **SD-Karte** gespeichert, 
 
 ![visuel1](images/aufbau2.jpg)
 
-![visuel2](images/aufbau4.jpg)
+![visuel2](images/aufbau3.jpg)
 
 ## 📁 Projektstruktur
 ```
