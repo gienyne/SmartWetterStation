@@ -162,15 +162,19 @@ Alle Messwerte werden in der Datei `/log.txt` auf der **SD-Karte** gespeichert, 
 
 ---
 
-## 📁 Projektstruktur
+![visuel1](images/aufbau2.jpg)
+![visuel2](images/aufbau4.jpg)
 
+## 📁 Projektstruktur
+```
 SmartWetterStation/
 ├── WetterStation_Fnl/
 │   ├── WetterStation_Fnl.ino
-│   ├── config.h               # Versteckt ( da meine sensible Daten :) )
-│   └── config.example.h       # Beispielkonfiguration 
+│   ├── config.h               # Versteckt (sensible Daten)
+│   └── config.example.h       # Beispielkonfiguration
 ├── .gitignore
 └── README.md
+```
 
 
 
