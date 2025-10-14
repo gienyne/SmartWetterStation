@@ -105,7 +105,7 @@ Die Station misst kontinuierlich:
   "light": 118,
   "timestamp": "2025-10-13T20:15:02"
 }
-
+```
 ## 🖥️ Node-RED-Dashboard
 
 ### 🧩 Benötigte Nodes
