@@ -106,6 +106,8 @@ Die Station misst kontinuierlich:
   "timestamp": "2025-10-13T20:15:02"
 }
 ```
+![Serial monitor](images/serial_monitorWetterS.jpg)
+
 ## 🖥️ Node-RED-Dashboard
 
 ### 🧩 Benötigte Nodes
@@ -131,6 +133,11 @@ Die Station misst kontinuierlich:
 Der **Switch** sendet `ON` oder `OFF` an das Topic  
 `home/wetterstation/fan`, um den Lüfter **ein- oder auszuschalten**.
 
+![node red knoten](images/nodeRed.jpg)
+
+ ![node red dashboard1](images/WetterStation1.jpg)
+
+ ![node red dashboard2](images/WetterStation1.jpg)
 ---
 
 ## 💾 Datenlogging
