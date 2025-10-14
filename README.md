@@ -159,11 +159,12 @@ Alle Messwerte werden in der Datei `/log.txt` auf der **SD-Karte** gespeichert, 
 
 SmartWetterStation/
 ├── WetterStation_Fnl/
-│ ├── WetterStation_Fnl.ino
-│ ├── config.h # nicht sichtbar (sensible Daten)
-│ └── config.example.h # Beispiel für eigene Konfiguration
+│   ├── WetterStation_Fnl.ino
+│   ├── config.h               # Versteckt ( da meine sensible Daten :) )
+│   └── config.example.h       # Beispielkonfiguration 
 ├── .gitignore
 └── README.md
+
 
 
 ---
