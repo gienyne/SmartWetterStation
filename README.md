@@ -137,7 +137,7 @@ Der **Switch** sendet `ON` oder `OFF` an das Topic
 
  ![node red dashboard1](images/WetterStation1.jpg)
 
- ![node red dashboard2](images/WetterStation1.jpg)
+ ![node red dashboard2](images/WetterStation2.jpg)
 ---
 
 ## 💾 Datenlogging
