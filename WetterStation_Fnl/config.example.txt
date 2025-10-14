@@ -1,0 +1,9 @@
+#pragma once
+
+// ====== WIFI CONFIG ======
+const char* ssid = "YOUR_WIFI_SSID";
+const char* passwd = "YOUR_WIFI_PASSWORD";
+
+// ====== MQTT CONFIG ======
+const char* mqtt_server = "192.168.x.x";   //  IP ADRESS OF YOUR  MQTT BROKER(ex: IP of your PC)
+const int mqtt_port = 1883;
